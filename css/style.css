@@ -59,6 +59,10 @@ img {
   padding-bottom: 94px;
 }
 
+.section-doin {
+  padding-top: 0;
+}
+
 .line {
   border-bottom: 1px solid #ececec;
 }
@@ -378,6 +382,7 @@ img {
   font-size: 16px;
   line-height: 1.6;
   border-radius: 4px;
+  border: none;
   text-align: center;
   letter-spacing: 0.03em;
 }
